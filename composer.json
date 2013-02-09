@@ -1,5 +1,5 @@
 {
-    "name": "zendframework/zendrest",
+    "name": "joacub/zendrest",
     "description": " ",
     "type": "library",
     "license": "BSD-3-Clause",
@@ -21,7 +21,7 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "zendframework/zend-http": "2.0.*",
-        "zendframework/zend-uri": "2.0.*"
+        "zendframework/zend-http": ">=2.0.1",
+        "zendframework/zend-uri": ">=2.0.1"
     }
 }
